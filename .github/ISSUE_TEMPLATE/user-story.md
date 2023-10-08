@@ -11,11 +11,13 @@ assignees: ''
 **I need** [function]
 **So that** [benefit]
 
-- Acceptance Criteria
+### Details and assumptions
+* [document what you know]
+
+### Acceptance Criteria
 
 ```gherkin
-
-**Given** [conditions]
-**When** [event]
-**Then** [outcome]
+Given [some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
 ```
